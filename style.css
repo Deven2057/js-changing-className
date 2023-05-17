@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.red{
+  background-color: red;
+  color: white;
+}
+.yellow{
+  background-color: yellow;
+  color: #0a99d6;
+}
+.black-text{
+  color: black;
+}
