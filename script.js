@@ -5,4 +5,8 @@ first.className="yellow "
 first.classList.remove('red')
 first.classList.addClass('red')
 first.classList.toggle('red')
+
+first.classList.contains('red')
+first.classList.contains('red')
+first.classList.contains('red')
 first.classList.contains('red')
